@@ -1,5 +1,17 @@
 # Multithreaded Chat Application
 
+"COMPANY": CODETECH IT SOLUTIONS
+
+"NAME": S VENKATESH
+
+"INTERN ID": CT04DH921
+
+"DOMAIN": JAVA PROGRAMMING
+
+"DURATION": 4 WEEKS
+
+"MENTOR": NEELA SANTOSH KUMAR
+
 This is a simple multithreaded client-server chat application developed using Java sockets and multithreading. It allows multiple clients to connect to a single server and exchange messages in real-time through the command line interface.
 
 ## Project Objective

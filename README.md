@@ -43,3 +43,9 @@ java -cp out server.ServerMain
 ### 3. Run Clients (in terminal 2 )
 
 java -cp out client.ClientMain
+
+## Screenshot
+
+![Image](https://github.com/user-attachments/assets/53703cdf-a5c5-49f7-abc3-f19d64aba1e8)
+![Image](https://github.com/user-attachments/assets/8cf60e71-6247-48d4-a614-f7eda79e0789)
+![Image](https://github.com/user-attachments/assets/b57f53d7-b1ef-4671-a907-f258b40f19f1)
